@@ -1,6 +1,6 @@
 {
   "name": "@gatekka/react-social-icons",
-  "version": "6.26.0",
+  "version": "6.26.2",
   "description": "beautiful, easy svg social icons in react",
   "main": "./dist/react-social-icons.cjs",
   "module": "./dist/react-social-icons.js",
